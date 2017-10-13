@@ -27,3 +27,4 @@ nbdist/
 RemoteSystemsTempFiles
 .metadata
 .recommenders
+bin
