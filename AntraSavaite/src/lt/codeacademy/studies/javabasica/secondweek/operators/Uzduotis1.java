@@ -9,7 +9,7 @@ public class Uzduotis1 {
 
 		String z1 = sakinys.substring(indeksas1, indeksas2);
 
-		System.out.println("Pirmas sakinio žodis: " + z1);
+		System.out.println("Pirmas sakinio žodis: " + z1 + ".");
 	}
 
 	private static String ivesti() {
